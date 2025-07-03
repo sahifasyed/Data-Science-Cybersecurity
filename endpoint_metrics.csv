@@ -1,0 +1,9 @@
+﻿timestamp,cpu_usage,disk_usage_gb,firewall_status,os_version
+01/05/2025 10:00,35,250,TRUE,Windows 10
+01/05/2025 10:05,40,252,TRUE,Windows 10
+01/05/2025 10:10,55,255,FALSE,Windows 11
+01/05/2025 10:15,45,258,TRUE,Ubuntu 22.04
+01/05/2025 10:20,50,260,TRUE,Windows 11
+01/05/2025 10:25,60,263,FALSE,Ubuntu 20.04
+01/05/2025 10:30,38,266,TRUE,Windows 10
+01/05/2025 10:35,42,269,TRUE,macOS 12
